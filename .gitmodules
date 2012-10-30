@@ -1,0 +1,3 @@
+[submodule "lib/raphael"]
+	path = lib/raphael
+	url = https://github.com/DmitryBaranovskiy/raphael.git
